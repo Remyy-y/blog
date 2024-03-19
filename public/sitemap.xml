@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:4321/posts/</loc>
+    <loc>https://blog.remyy.cn/posts/</loc>
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:4321/</loc>
+    <loc>https://blog.remyy.cn/</loc>
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:4321/posts/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9C%E7%A8%8B%E5%90%8C%E6%AD%A5git/</loc>
+    <loc>https://blog.remyy.cn/posts/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9C%E7%A8%8B%E5%90%8C%E6%AD%A5git/</loc>
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:4321/posts/mythirdpost/</loc>
+    <loc>https://blog.remyy.cn/posts/mythirdpost/</loc>
     <lastmod>2023-08-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:4321/posts/mysecondpost/</loc>
+    <loc>https://blog.remyy.cn/posts/mysecondpost/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:4321/posts/myfirstpost/</loc>
+    <loc>https://blog.remyy.cn/posts/myfirstpost/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

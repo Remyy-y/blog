@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Remyy</title>
-    <link>http://localhost:4321/tags/hugo/</link>
+    <link>https://blog.remyy.cn/tags/hugo/</link>
     <description>Recent content in Hugo on Remyy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Remyy</copyright>
-    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:4321/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.remyy.cn/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>云服务同步git</title>
-      <link>http://localhost:4321/posts/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9C%E7%A8%8B%E5%90%8C%E6%AD%A5git/</link>
+      <link>https://blog.remyy.cn/posts/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9C%E7%A8%8B%E5%90%8C%E6%AD%A5git/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/posts/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9C%E7%A8%8B%E5%90%8C%E6%AD%A5git/</guid>
+      <guid>https://blog.remyy.cn/posts/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9C%E7%A8%8B%E5%90%8C%E6%AD%A5git/</guid>
       <description>本地写博客，远程推送到git仓库，并通过云服务器远程同步git仓库进行部署博客</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4321/posts/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9C%E7%A8%8B%E5%90%8C%E6%AD%A5git/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.remyy.cn/posts/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9C%E7%A8%8B%E5%90%8C%E6%AD%A5git/featured.png" />
     </item>
     
   </channel>

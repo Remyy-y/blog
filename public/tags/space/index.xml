@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Space on Remyy</title>
-    <link>http://localhost:4321/tags/space/</link>
+    <link>https://blog.remyy.cn/tags/space/</link>
     <description>Recent content in Space on Remyy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Remyy</copyright>
-    <lastBuildDate>Wed, 16 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:4321/tags/space/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.remyy.cn/tags/space/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My third post</title>
-      <link>http://localhost:4321/posts/mythirdpost/</link>
+      <link>https://blog.remyy.cn/posts/mythirdpost/</link>
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/posts/mythirdpost/</guid>
+      <guid>https://blog.remyy.cn/posts/mythirdpost/</guid>
       <description>This is my third post on my site</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4321/posts/mythirdpost/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.remyy.cn/posts/mythirdpost/featured.jpg" />
     </item>
     
     <item>
       <title>My second post</title>
-      <link>http://localhost:4321/posts/mysecondpost/</link>
+      <link>https://blog.remyy.cn/posts/mysecondpost/</link>
       <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/posts/mysecondpost/</guid>
+      <guid>https://blog.remyy.cn/posts/mysecondpost/</guid>
       <description>This is my second post on my site</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4321/posts/mysecondpost/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.remyy.cn/posts/mysecondpost/featured.jpg" />
     </item>
     
     <item>
       <title>My first post</title>
-      <link>http://localhost:4321/posts/myfirstpost/</link>
+      <link>https://blog.remyy.cn/posts/myfirstpost/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/posts/myfirstpost/</guid>
+      <guid>https://blog.remyy.cn/posts/myfirstpost/</guid>
       <description>This is my first post on my site</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4321/posts/myfirstpost/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.remyy.cn/posts/myfirstpost/featured.jpg" />
     </item>
     
   </channel>
