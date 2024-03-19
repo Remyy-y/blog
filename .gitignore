@@ -4,3 +4,4 @@
 # 但不要忽略.gitignore和public目录
 !.gitignore
 !/public
+.Rproj.user
