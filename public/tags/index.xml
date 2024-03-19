@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Remyy</title>
-    <link>http://localhost:4321/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on Remyy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Remyy</copyright>
-    <lastBuildDate>Wed, 16 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Space</title>
-      <link>http://localhost:4321/tags/space/</link>
+      <link>https://example.org/tags/space/</link>
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/tags/space/</guid>
+      <guid>https://example.org/tags/space/</guid>
       <description></description>
       
     </item>

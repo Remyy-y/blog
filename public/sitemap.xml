@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:4321/posts/mythirdpost/</loc>
+    <loc>https://example.org/posts/mythirdpost/</loc>
     <lastmod>2023-08-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:4321/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2023-08-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:4321/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2023-08-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:4321/posts/mysecondpost/</loc>
+    <loc>https://example.org/posts/mysecondpost/</loc>
     <lastmod>2023-08-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:4321/posts/myfirstpost/</loc>
+    <loc>https://example.org/posts/myfirstpost/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
